@@ -49,7 +49,7 @@ const navigation = {
 };
 export default function Home({ posts = [] }) {
   return (
-    <Layout>
+    <Layout title="A.J. KANELL | PLAY-BY-PLAY BROADCASTER">
     <div className="relative bg-gray-50 overflow-hidden min-h-screen">
       <>
         <main className="mt-20 mx-auto sm:max-w-2xl px-4 sm:mt-16">
